@@ -1,0 +1,3 @@
+function member() = {
+    alert('testing');
+}
